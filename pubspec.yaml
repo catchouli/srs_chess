@@ -37,6 +37,8 @@ dependencies:
   cupertino_icons: ^1.0.2
   chess: ^0.8.0
   chess_vectors_flutter: ^1.0.18
+  sqflite: ^2.2.6
+  path_provider: ^2.0.14
 
 dev_dependencies:
   flutter_test:
